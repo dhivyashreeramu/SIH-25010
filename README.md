@@ -129,13 +129,12 @@ Crop Recommendation Engine
   │
   ▼
 Advisory Generation
-  ┌─────────────────────────────────────────────┐
-  │  1. Seed Selection Advice                    │
-  │  2. Fertilizer & Irrigation Schedule        │
-  │  3. Pest & Disease Monitoring               │
-  │  4. Harvest & Post-Harvest Guidance         │
-  └─────────────────────────────────────────────┘
-  │
+    
+     1. Seed Selection Advice                    │
+     2. Fertilizer & Irrigation Schedule       
+     3. Pest & Disease Monitoring              
+     4. Harvest & Post-Harvest Guidance         
+  
   ▼
 Notification/Delivery System
   ┌─────────────────────────────────────────────┐
